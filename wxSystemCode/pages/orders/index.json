@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "tabs": "../../components/Tabs/Tabs"
-  },
-  "navigationBarTitleText": "订单列表",
-  "enablePullDownRefresh": true,
-  "backgroundTextStyle": "dark"
-}
