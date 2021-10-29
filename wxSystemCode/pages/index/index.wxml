@@ -1,0 +1,65 @@
+<view class="swiper_box">
+  <swiper autoplay="{{true}}" interval="3000" circular="{{true}}">
+    <swiper-item class="" item-id="">
+      <navigator url="">
+        <image mode="heightFix" src="https://api-hmugo-web.itheima.net/pyg/banner1.png" />
+      </navigator>
+    </swiper-item>
+    <swiper-item class="" item-id="">
+      <navigator url="">
+        <image mode="heightFix" src="https://api-hmugo-web.itheima.net/pyg/banner1.png" />
+      </navigator>
+    </swiper-item>
+    <swiper-item class="" item-id="">
+      <navigator url="">
+        <image mode="heightFix" src="https://api-hmugo-web.itheima.net/pyg/banner1.png" />
+      </navigator>
+    </swiper-item>
+  </swiper>
+</view>
+<view class="totalAdd">
+  <view class="add_row">
+    <view class="iconfont icon-31dingwei"></view>
+    <view class="addInfo">科技楼 509</view>
+  </view>
+</view>
+<view class="work">
+  <view class="work_content">
+    <view class="work_title">
+      <view class="title_left_icon"></view>
+      <view class="work_title_text">功能板块</view>
+    </view>
+    <view class="work_items">
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+      <view class="work_item">
+        <navigator url="/pages/maintain/index" open-type="switchTab">
+          <image src="/images/qu.png" mode="widthFix" />
+        </navigator>
+      </view>
+    </view>
+  </view>
+</view>
