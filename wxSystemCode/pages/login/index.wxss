@@ -1,0 +1,35 @@
+.img {
+  text-align: center;
+  margin: 50rpx 0rpx;
+}
+.img image {
+  width: 30%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.login_info {
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.login_info .item_flex {
+  display: flex;
+  height: 80rpx;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid #dedede;
+}
+.login_info .item_flex input {
+  height: 100%;
+  width: 600rpx;
+  font-size: 28rpx;
+  padding-left: 20rpx;
+}
+.login_info .item_flex text {
+  font-size: 28rpx;
+  width: 140rpx;
+  text-align: left;
+}
+.login_row button {
+  margin-top: 20rpx;
+}
