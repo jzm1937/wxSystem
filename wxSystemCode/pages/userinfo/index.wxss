@@ -1,0 +1,35 @@
+form {
+  display: block;
+  padding: 30rpx;
+}
+form .input_input_row {
+  position: relative;
+}
+form .input_input_row .phone {
+  padding-right: 115rpx;
+}
+form .input_input_row .sendCode {
+  position: absolute;
+  right: 0rpx;
+  top: 0rpx;
+  height: 100%;
+  line-height: 80rpx;
+  border-left: 1px solid #333;
+  padding: 0rpx 30rpx;
+}
+form input {
+  padding-left: 10rpx;
+  height: 80rpx;
+  border: 1rpx solid #333;
+  border-radius: 10rpx;
+  color: #111;
+  font-size: 34rpx;
+}
+form .checkCode {
+  display: flex;
+  align-items: center;
+  margin-top: 30rpx;
+}
+form .checkCode .code {
+  width: 30%;
+}
